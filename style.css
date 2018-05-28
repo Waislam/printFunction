@@ -1,0 +1,32 @@
+.test{
+	color: green;
+}
+
+.yellow {
+	color:yellow;
+}
+.anothercolor{
+	color:pink;
+}
+/*#print {
+	display: none;
+	position: absolute;
+}*/
+
+/* #idname{
+	background:#000;
+	height: 100px;
+	width: 100px;
+	position: fixed;
+	bottom: 50px;
+	right: 50px;
+	color: white;
+	text-align: center;
+	display: none;
+} */
+
+/* @media print {
+    #myPrntbtn {
+        display :  none;
+    }
+} */
